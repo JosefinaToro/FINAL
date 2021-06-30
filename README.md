@@ -4,7 +4,7 @@ Crear una herramienta que me permita mostrar los resultados finales de mis proye
 
 ### ¿Para quiénes?
 ### Usuario central: Persona 1 - Macarena Domínguez
-![](https://githubusercontent.com/JosefinaToro/FINAL/main/images/img1.jpeg)
+![](https://githubusercontent.com/JosefinaToro/FINAL/main/IMAGES/img1.jpeg)
 
 #### Caracteristicas, necesidades y expectativas:
 Comprendida entre los 28 y 45 años de edad, es diseñadora y está a cargo de una agencia de diseño y publicidad. Necesita trabajadores recien salidos de la universidad, con nuevas ideas y proyectos. Espera encontrar al profesional ideal tan solo viendo el portafolio, sin tener que realizar una entrevista previa.
