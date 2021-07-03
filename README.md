@@ -29,7 +29,7 @@ Se divide de manera ordenada, separando cada proyecto y sus resultados.
 https://pazmartinez.cl/
 
 ### Antecedente 2 - Portafolio (2)
-[!alt text](/IMAGES/imgp2.png)
+[!alt text](/IMAGES/imgp2.jpeg)
 
 La paleta de colores y el minimalismo me parecen atractivos.
 https://www.holly-jolley.com/
