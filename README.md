@@ -10,7 +10,7 @@ Crear una herramienta que me permita mostrar los resultados finales de mis proye
 Comprendida entre los 28 y 45 años de edad, es diseñadora y está a cargo de una agencia de diseño y publicidad. Necesita trabajadores recien salidos de la universidad, con nuevas ideas y proyectos. Espera encontrar al profesional ideal tan solo viendo el portafolio, sin tener que realizar una entrevista previa.
 
 ### Usuario extremo: Matías Rubio
-[!alt text](/IMAGES/img2.jpeg)
+![alt text](/IMAGES/img2.jpeg)
 
 #### Caracteristicas, necesidades y expectativas:
 Comprendido entre los 45 y 55 años de edad, es diseñador en una agencia de publicidad hace muchos años. Necesita mantenerse actualizado con las nuevas tendencias y nuevos proyectos que salen a la luz todos los días. Espera encontrar inspiración y no quedarse atrás, debido a su edad, con respecto a sus colegas más jóvenes dentro de la agencia.
