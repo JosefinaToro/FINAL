@@ -1,0 +1,13 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	background-color: white;
+	background-image: url("https://cdn.hovia.com/app/uploads/pastel-pink-and-green-vintage-tropical-wallpaper-mural-Plain-scaled.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p {
+	font-size: 50px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
